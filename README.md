@@ -1,5 +1,3 @@
-# Text_Recognition
-
 working on different ways to recognize text...
 
 1. LSTM_Text_Generation
