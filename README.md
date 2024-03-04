@@ -15,7 +15,7 @@ working on different ways to recognize text...
 
 4. RNN_Text_Classification
 
-     --> RNN_Text_Classification_BookSummaries.ipynb, .txt from a kaggle's data set
+     --> RNN_Text_Classification_Summaries.ipynb, .txt from a kaggle's data set
      --> RNN_Text_Classification_BookTitles.ipynb, .txt from a kaggle's data set 
    
 
