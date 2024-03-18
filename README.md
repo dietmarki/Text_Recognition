@@ -16,7 +16,11 @@ working on different ways to recognize text...
 4. RNN_Text_Classification
 
      --> RNN_Text_Classification_Summaries.ipynb, .txt from a kaggle's data set
-     --> RNN_Text_Classification_BookTitles.ipynb, .txt from a kaggle's data set 
+     --> RNN_Text_Classification_BookTitles.ipynb, .txt from a kaggle's data set
+
+5. LLM_Text_Generation with a N-Gram Model from nltk
+
+     --> LLM_simple_example.ipynb, .csv from a kaggle's chat data set
    
 
 ...to be continued
