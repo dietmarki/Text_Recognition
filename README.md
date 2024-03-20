@@ -22,6 +22,7 @@ working on different ways to recognize text...
 
      --> LLM_simple_example.ipynb, .csv from a kaggle's chat data set
      --> LLM_expanding_example.ipynb, .csv from a kaggle's chat data set
+     --> LLM_sample_example.ipynb, .csv from a kaggle's chat data set
    
 
 ...to be continued
