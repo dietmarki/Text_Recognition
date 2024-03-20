@@ -21,6 +21,7 @@ working on different ways to recognize text...
 5. LLM_Text_Generation with a N-Gram Model from nltk
 
      --> LLM_simple_example.ipynb, .csv from a kaggle's chat data set
+     --> LLM_expanding_example.ipynb, .csv from a kaggle's chat data set
    
 
 ...to be continued
